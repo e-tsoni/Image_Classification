@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2111512a-4657-4db6-b348-918979f31d9c" name="Changes" comment="initial commit">
+    <list default="true" id="2111512a-4657-4db6-b348-918979f31d9c" name="Changes" comment="refactor breast_cancer_classification.ipynb to breast_cancer_data_processing.ipynb">
       <change afterPath="$PROJECT_DIR$/breast_cancer_classification.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/breast_cancer_classification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/breast_cancer_classification.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image_classification_system.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/image_classification_system.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +131,8 @@
       <workItem from="1708331360817" duration="2899000" />
       <workItem from="1708419009772" duration="6610000" />
       <workItem from="1708430166379" duration="76000" />
-      <workItem from="1708506262773" duration="4259000" />
+      <workItem from="1708506262773" duration="10054000" />
+      <workItem from="1708591049711" duration="1976000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -191,7 +190,31 @@
       <option name="project" value="LOCAL" />
       <updated>1708333279190</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="read /split / save data + small changes in image_classification_system.ipynb">
+      <option name="closed" value="true" />
+      <created>1708512841812</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1708512841812</updated>
+    </task>
+    <task id="LOCAL-00009" summary=".idea commit">
+      <option name="closed" value="true" />
+      <created>1708512876430</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1708512876430</updated>
+    </task>
+    <task id="LOCAL-00010" summary="refactor breast_cancer_classification.ipynb to breast_cancer_data_processing.ipynb">
+      <option name="closed" value="true" />
+      <created>1708513874604</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1708513874604</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,7 +238,10 @@
     <MESSAGE value="CNN example for CIFAR-10 classification (done)" />
     <MESSAGE value="commit user images and model" />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="read /split / save data + small changes in image_classification_system.ipynb" />
+    <MESSAGE value=".idea commit" />
+    <MESSAGE value="refactor breast_cancer_classification.ipynb to breast_cancer_data_processing.ipynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor breast_cancer_classification.ipynb to breast_cancer_data_processing.ipynb" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -229,6 +255,6 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Image_Classification$breast_cancer_classification.coverage" NAME="breast_cancer_classification Coverage Results" MODIFIED="1708430176807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Image_Classification$breast_cancer_classification.coverage" NAME="breast_cancer_classification Coverage Results" MODIFIED="1708516207140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
