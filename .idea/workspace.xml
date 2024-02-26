@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2111512a-4657-4db6-b348-918979f31d9c" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/imbalanced_dataset.ipynb" afterDir="false" />
+    <list default="true" id="2111512a-4657-4db6-b348-918979f31d9c" name="Changes" comment="logistic regression without data augmentation, having an imbalanced dataset.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/breast_cancer_classification.py" beforeDir="false" afterPath="$PROJECT_DIR$/breast_cancer_classification.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image_classification_system.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/image_classification_example.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logistic_regression_without_data_augmentation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/logistic_regression_without_data_augmentation.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +28,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="logistic_regression_without_data_augmentation" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -47,21 +43,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.breast_cancer_classification.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "logistic__regression__without__data__augmentation",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "configurable.group.build",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.breast_cancer_classification.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.build&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.main">
     <configuration name="breast_cancer_classification" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Image_Classification" />
@@ -114,6 +110,7 @@
         <item itemvalue="Python.breast_cancer_classification" />
         <item itemvalue="Python.breast_cancer_classification" />
         <item itemvalue="Python.breast_cancer_classification" />
+        <item itemvalue="Python.breast_cancer_classification" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +134,8 @@
       <workItem from="1708419009772" duration="6610000" />
       <workItem from="1708430166379" duration="76000" />
       <workItem from="1708506262773" duration="10054000" />
-      <workItem from="1708591049711" duration="25375000" />
+      <workItem from="1708591049711" duration="26494000" />
+      <workItem from="1708941741836" duration="408000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -235,7 +233,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708594825607</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="logistic regression without data augmentation, having an imbalanced dataset.">
+      <option name="closed" value="true" />
+      <created>1708621347995</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1708621347995</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,7 +269,8 @@
     <MESSAGE value="refactor breast_cancer_classification.ipynb to breast_cancer_data_processing.ipynb" />
     <MESSAGE value="test code for logistic regression without data augmentation" />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="logistic regression without data augmentation, having an imbalanced dataset." />
+    <option name="LAST_COMMIT_MESSAGE" value="logistic regression without data augmentation, having an imbalanced dataset." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
