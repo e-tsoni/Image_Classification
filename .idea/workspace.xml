@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2111512a-4657-4db6-b348-918979f31d9c" name="Changes" comment="initial commit">
+    <list default="true" id="2111512a-4657-4db6-b348-918979f31d9c" name="Changes" comment="code finished (before training).">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_augmentation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data_augmentation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple_CNN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/simple_CNN.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
     "Python.imbalanced_dataset.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "data-augmentation",
+    "git-widget-placeholder": "simple__CNN",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -132,10 +132,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.breast_cancer_classification" />
         <item itemvalue="Python.imbalanced_dataset" />
         <item itemvalue="Python.breast_cancer_classification" />
         <item itemvalue="Python.breast_cancer_classification" />
+        <item itemvalue="Python.imbalanced_dataset" />
         <item itemvalue="Python.breast_cancer_classification" />
       </list>
     </recent_temporary>
@@ -162,7 +162,7 @@
       <workItem from="1708506262773" duration="10054000" />
       <workItem from="1708591049711" duration="26494000" />
       <workItem from="1708941741836" duration="9914000" />
-      <workItem from="1709628138010" duration="4252000" />
+      <workItem from="1709628138010" duration="11640000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -292,7 +292,39 @@
       <option name="project" value="LOCAL" />
       <updated>1709630149754</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="data augmentation for class 1">
+      <option name="closed" value="true" />
+      <created>1709632447874</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1709632447874</updated>
+    </task>
+    <task id="LOCAL-00018" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1709633426472</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1709633426472</updated>
+    </task>
+    <task id="LOCAL-00019" summary="simple CNN class">
+      <option name="closed" value="true" />
+      <created>1709635530724</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1709635530724</updated>
+    </task>
+    <task id="LOCAL-00020" summary="code finished (before training).">
+      <option name="closed" value="true" />
+      <created>1709635811519</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1709635811519</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,8 +353,11 @@
     <MESSAGE value="test code for logistic regression without data augmentation" />
     <MESSAGE value="logistic regression without data augmentation, having an imbalanced dataset." />
     <MESSAGE value="delete optuna / finish logistic Logistic Regression without data augmentation." />
+    <MESSAGE value="data augmentation for class 1" />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="simple CNN class" />
+    <MESSAGE value="code finished (before training)." />
+    <option name="LAST_COMMIT_MESSAGE" value="code finished (before training)." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
