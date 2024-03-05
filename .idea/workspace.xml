@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2111512a-4657-4db6-b348-918979f31d9c" name="Changes" comment="initial commit">
+    <list default="true" id="2111512a-4657-4db6-b348-918979f31d9c" name="Changes" comment="data augmentation for class 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_augmentation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data_augmentation.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +28,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="data-augmentation" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,7 +49,7 @@
     "Python.imbalanced_dataset.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "data-augmentation",
+    "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -132,10 +131,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.breast_cancer_classification" />
         <item itemvalue="Python.imbalanced_dataset" />
         <item itemvalue="Python.breast_cancer_classification" />
         <item itemvalue="Python.breast_cancer_classification" />
+        <item itemvalue="Python.imbalanced_dataset" />
         <item itemvalue="Python.breast_cancer_classification" />
       </list>
     </recent_temporary>
@@ -162,7 +161,7 @@
       <workItem from="1708506262773" duration="10054000" />
       <workItem from="1708591049711" duration="26494000" />
       <workItem from="1708941741836" duration="9914000" />
-      <workItem from="1709628138010" duration="4252000" />
+      <workItem from="1709628138010" duration="4960000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -292,7 +291,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709630149754</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="data augmentation for class 1">
+      <option name="closed" value="true" />
+      <created>1709632447874</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1709632447874</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -322,7 +329,8 @@
     <MESSAGE value="logistic regression without data augmentation, having an imbalanced dataset." />
     <MESSAGE value="delete optuna / finish logistic Logistic Regression without data augmentation." />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="data augmentation for class 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="data augmentation for class 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
