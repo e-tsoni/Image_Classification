@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2111512a-4657-4db6-b348-918979f31d9c" name="Changes" comment="simple CNN training: completed.">
+    <list default="true" id="2111512a-4657-4db6-b348-918979f31d9c" name="Changes" comment="TR completed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transfer_Learning_ResNet34.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Transfer_Learning_ResNet34.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs_input/airplane.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgs_for_testing/airplane.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs_input/bird.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgs_for_testing/bird.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +30,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Transfer-Learning-ResNet-34" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,7 +51,7 @@
     "Python.imbalanced_dataset.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Transfer-Learning-ResNet-34",
+    "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -136,7 +137,7 @@
         <item itemvalue="Python.breast_cancer_classification" />
         <item itemvalue="Python.imbalanced_dataset" />
         <item itemvalue="Python.breast_cancer_classification" />
-        <item itemvalue="Python.breast_cancer_classification" />
+        <item itemvalue="Python.imbalanced_dataset" />
       </list>
     </recent_temporary>
   </component>
@@ -332,7 +333,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709642968975</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="TR completed">
+      <option name="closed" value="true" />
+      <created>1709648485745</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1709648485745</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -366,7 +375,8 @@
     <MESSAGE value="simple CNN class" />
     <MESSAGE value="code finished (before training)." />
     <MESSAGE value="simple CNN training: completed." />
-    <option name="LAST_COMMIT_MESSAGE" value="simple CNN training: completed." />
+    <MESSAGE value="TR completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="TR completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
