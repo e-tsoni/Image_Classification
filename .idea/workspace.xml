@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2111512a-4657-4db6-b348-918979f31d9c" name="Changes" comment="initial commit">
+    <list default="true" id="2111512a-4657-4db6-b348-918979f31d9c" name="Changes" comment="simple CNN class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/simple_CNN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/simple_CNN.ipynb" afterDir="false" />
     </list>
@@ -162,7 +162,7 @@
       <workItem from="1708506262773" duration="10054000" />
       <workItem from="1708591049711" duration="26494000" />
       <workItem from="1708941741836" duration="9914000" />
-      <workItem from="1709628138010" duration="7310000" />
+      <workItem from="1709628138010" duration="7584000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -308,7 +308,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709633426472</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="simple CNN class">
+      <option name="closed" value="true" />
+      <created>1709635530724</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1709635530724</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -339,7 +347,8 @@
     <MESSAGE value="delete optuna / finish logistic Logistic Regression without data augmentation." />
     <MESSAGE value="data augmentation for class 1" />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="simple CNN class" />
+    <option name="LAST_COMMIT_MESSAGE" value="simple CNN class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
