@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2111512a-4657-4db6-b348-918979f31d9c" name="Changes" comment="code finished (before training).">
+    <list default="true" id="2111512a-4657-4db6-b348-918979f31d9c" name="Changes" comment="simple CNN training: completed.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple_CNN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/simple_CNN.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Transfer_Learning_ResNet34.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Transfer_Learning_ResNet34.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
     "Python.imbalanced_dataset.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "simple__CNN",
+    "git-widget-placeholder": "Transfer-Learning-ResNet-34",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -134,8 +134,8 @@
       <list>
         <item itemvalue="Python.imbalanced_dataset" />
         <item itemvalue="Python.breast_cancer_classification" />
-        <item itemvalue="Python.breast_cancer_classification" />
         <item itemvalue="Python.imbalanced_dataset" />
+        <item itemvalue="Python.breast_cancer_classification" />
         <item itemvalue="Python.breast_cancer_classification" />
       </list>
     </recent_temporary>
@@ -162,7 +162,7 @@
       <workItem from="1708506262773" duration="10054000" />
       <workItem from="1708591049711" duration="26494000" />
       <workItem from="1708941741836" duration="9914000" />
-      <workItem from="1709628138010" duration="11640000" />
+      <workItem from="1709628138010" duration="11754000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -324,7 +324,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709635811519</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="simple CNN training: completed.">
+      <option name="closed" value="true" />
+      <created>1709642968975</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1709642968975</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -357,7 +365,8 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="simple CNN class" />
     <MESSAGE value="code finished (before training)." />
-    <option name="LAST_COMMIT_MESSAGE" value="code finished (before training)." />
+    <MESSAGE value="simple CNN training: completed." />
+    <option name="LAST_COMMIT_MESSAGE" value="simple CNN training: completed." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
