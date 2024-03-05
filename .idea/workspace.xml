@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2111512a-4657-4db6-b348-918979f31d9c" name="Changes" comment="initial commit">
+    <list default="true" id="2111512a-4657-4db6-b348-918979f31d9c" name="Changes" comment="delete optuna / finish logistic Logistic Regression without data augmentation.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imbalanced_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/imbalanced_dataset.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,23 +43,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.breast_cancer_classification.executor&quot;: &quot;Run&quot;,
-    &quot;Python.imbalanced_dataset.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;imbalanced__dataset&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.build&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.breast_cancer_classification.executor": "Run",
+    "Python.imbalanced_dataset.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "data-augmentation",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.build",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Python.imbalanced_dataset">
+}]]></component>
+  <component name="RunManager" selected="Python.main">
     <configuration name="breast_cancer_classification" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Image_Classification" />
       <option name="ENV_FILES" value="" />
@@ -132,8 +131,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.imbalanced_dataset" />
         <item itemvalue="Python.breast_cancer_classification" />
+        <item itemvalue="Python.imbalanced_dataset" />
         <item itemvalue="Python.breast_cancer_classification" />
         <item itemvalue="Python.breast_cancer_classification" />
         <item itemvalue="Python.breast_cancer_classification" />
@@ -162,7 +161,7 @@
       <workItem from="1708506262773" duration="10054000" />
       <workItem from="1708591049711" duration="26494000" />
       <workItem from="1708941741836" duration="9914000" />
-      <workItem from="1709628138010" duration="263000" />
+      <workItem from="1709628138010" duration="1938000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -276,7 +275,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708942423928</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="delete optuna / finish logistic Logistic Regression without data augmentation.">
+      <option name="closed" value="true" />
+      <created>1709628485491</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1709628485491</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -305,7 +312,8 @@
     <MESSAGE value="test code for logistic regression without data augmentation" />
     <MESSAGE value="logistic regression without data augmentation, having an imbalanced dataset." />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="delete optuna / finish logistic Logistic Regression without data augmentation." />
+    <option name="LAST_COMMIT_MESSAGE" value="delete optuna / finish logistic Logistic Regression without data augmentation." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
