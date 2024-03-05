@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2111512a-4657-4db6-b348-918979f31d9c" name="Changes" comment="delete optuna / finish logistic Logistic Regression without data augmentation.">
+    <list default="true" id="2111512a-4657-4db6-b348-918979f31d9c" name="Changes" comment="initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_augmentation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data_augmentation.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -161,7 +162,7 @@
       <workItem from="1708506262773" duration="10054000" />
       <workItem from="1708591049711" duration="26494000" />
       <workItem from="1708941741836" duration="9914000" />
-      <workItem from="1709628138010" duration="1938000" />
+      <workItem from="1709628138010" duration="4252000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -283,7 +284,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709628485491</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1709630149754</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1709630149754</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -311,9 +320,9 @@
     <MESSAGE value="refactor breast_cancer_classification.ipynb to breast_cancer_data_processing.ipynb" />
     <MESSAGE value="test code for logistic regression without data augmentation" />
     <MESSAGE value="logistic regression without data augmentation, having an imbalanced dataset." />
-    <MESSAGE value="initial commit" />
     <MESSAGE value="delete optuna / finish logistic Logistic Regression without data augmentation." />
-    <option name="LAST_COMMIT_MESSAGE" value="delete optuna / finish logistic Logistic Regression without data augmentation." />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
