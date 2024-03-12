@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2111512a-4657-4db6-b348-918979f31d9c" name="Changes" comment="01 completed (run)">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_data_augmentation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/02_data_augmentation.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="2111512a-4657-4db6-b348-918979f31d9c" name="Changes" comment="01 completed (run with comments)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +26,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="final_processing_02" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -64,7 +61,7 @@
     "Python.imbalanced_dataset.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "final__processing__02",
+    "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -177,7 +174,7 @@
       <workItem from="1708591049711" duration="26494000" />
       <workItem from="1708941741836" duration="9914000" />
       <workItem from="1709628138010" duration="11754000" />
-      <workItem from="1710223958325" duration="8405000" />
+      <workItem from="1710223958325" duration="9013000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -395,7 +392,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710237058988</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="01 completed (run with comments)">
+      <option name="closed" value="true" />
+      <created>1710240481418</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1710240481418</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -435,7 +440,8 @@
     <MESSAGE value="00 completed" />
     <MESSAGE value="00 completed (run)" />
     <MESSAGE value="01 completed (run)" />
-    <option name="LAST_COMMIT_MESSAGE" value="01 completed (run)" />
+    <MESSAGE value="01 completed (run with comments)" />
+    <option name="LAST_COMMIT_MESSAGE" value="01 completed (run with comments)" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Image_Classification$imbalanced_dataset.coverage" NAME="imbalanced_dataset Coverage Results" MODIFIED="1708957434572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
