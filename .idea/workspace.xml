@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2111512a-4657-4db6-b348-918979f31d9c" name="Changes" comment="TR completed">
+    <list default="true" id="2111512a-4657-4db6-b348-918979f31d9c" name="Changes" comment="order .ipynb files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs_input/airplane.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgs_for_testing/airplane.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs_input/bird.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgs_for_testing/bird.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00_image_classification_example.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/00_image_classification_example.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,10 +29,24 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Transfer-Learning-ResNet-34" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;e-tsoni&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="d0873de6-2fd8-4308-98b6-e6e46f7081c2" />
+        <option name="url" value="https://github.com/e-tsoni/Image_Classification.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -51,7 +64,7 @@
     "Python.imbalanced_dataset.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "final__processing",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -164,6 +177,7 @@
       <workItem from="1708591049711" duration="26494000" />
       <workItem from="1708941741836" duration="9914000" />
       <workItem from="1709628138010" duration="11754000" />
+      <workItem from="1710223958325" duration="4887000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -341,7 +355,23 @@
       <option name="project" value="LOCAL" />
       <updated>1709648485745</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="rename and delete">
+      <option name="closed" value="true" />
+      <created>1709648876511</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1709648876511</updated>
+    </task>
+    <task id="LOCAL-00024" summary="order .ipynb files">
+      <option name="closed" value="true" />
+      <created>1709649108539</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1709649108539</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -376,18 +406,9 @@
     <MESSAGE value="code finished (before training)." />
     <MESSAGE value="simple CNN training: completed." />
     <MESSAGE value="TR completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="TR completed" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="rename and delete" />
+    <MESSAGE value="order .ipynb files" />
+    <option name="LAST_COMMIT_MESSAGE" value="order .ipynb files" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Image_Classification$imbalanced_dataset.coverage" NAME="imbalanced_dataset Coverage Results" MODIFIED="1708957434572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
